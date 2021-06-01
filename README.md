@@ -7,9 +7,9 @@
 编程环境： Anaconda3  conda 4.8.3 python 3.6.13  tensorflow 1.14.0
 
 视频1
-# Tensorflow 基础介绍和安装
+## Tensorflow 基础介绍和安装
 
-## Tensorflow介绍
+### Tensorflow介绍
 
 TensorFlow 是一个端到端开源机器学习平台。它拥有一个全面而灵活的生态系统，其中包含各种工具、库和社区资源，可助力研究人员推动先进机器学习技术的发展，并使开发者能够轻松地构建和部署由机器学习提供支持的应用。
 
@@ -17,7 +17,7 @@ TensorFlow 是一个端到端开源机器学习平台。它拥有一个全面而
 
 
 
-## 创建Tensorflow虚拟环境
+### 创建Tensorflow虚拟环境
 
 安装虚拟环境的原因，参考这篇帖子的说法https://blog.csdn.net/zhanghai4155/article/details/104268737
 
@@ -25,7 +25,7 @@ TensorFlow 是一个端到端开源机器学习平台。它拥有一个全面而
 
 ![conda env list](https://img-blog.csdn.net/20180520235206835?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L21yd3ho/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
-## CPU版本安装
+### CPU版本安装
 
 用pip命令安装
 
